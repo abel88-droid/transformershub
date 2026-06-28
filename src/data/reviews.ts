@@ -1,0 +1,58 @@
+import { Review } from "@/types";
+
+export const reviews: Review[] = [
+  {
+    id: "r1",
+    name: "Arjun Mehta",
+    location: "Mumbai, MH",
+    rating: 5,
+    text: "Three months on the Isolate Gold and the difference in recovery time is night and day. Mixes clean, no bloating, tastes better than brands twice the price.",
+    avatarColor: "#D4AF37",
+    verified: true,
+  },
+  {
+    id: "r2",
+    name: "Priya Nair",
+    location: "Kochi, KL",
+    rating: 5,
+    text: "Ordered creatine and pre-workout together, delivered in two days flat. The pre-workout pump is unreal without the jittery crash other brands give me.",
+    avatarColor: "#8A1F1F",
+    verified: true,
+  },
+  {
+    id: "r3",
+    name: "Rohan Verma",
+    location: "Delhi, DL",
+    rating: 5,
+    text: "Genuine products with batch codes you can actually verify. Customer support on WhatsApp replied in minutes when I had a dosage question.",
+    avatarColor: "#F5F1E8",
+    verified: true,
+  },
+  {
+    id: "r4",
+    name: "Karthik Subramaniam",
+    location: "Bengaluru, KA",
+    rating: 4,
+    text: "Mass gainer helped me put on 4kg in two months alongside my training plan. Packaging feels premium, not like the usual plastic tubs.",
+    avatarColor: "#D4AF37",
+    verified: true,
+  },
+  {
+    id: "r5",
+    name: "Sneha Reddy",
+    location: "Hyderabad, TS",
+    rating: 5,
+    text: "Switched my entire supplement stack here. The vitamin and fish oil combo has noticeably helped my joint soreness post-leg day.",
+    avatarColor: "#8A1F1F",
+    verified: true,
+  },
+  {
+    id: "r6",
+    name: "Vikram Singh",
+    location: "Jaipur, RJ",
+    rating: 5,
+    text: "Best price I have found for authentic whey in this category, and the loyalty discount on repeat orders is a nice touch.",
+    avatarColor: "#F5F1E8",
+    verified: true,
+  },
+];
