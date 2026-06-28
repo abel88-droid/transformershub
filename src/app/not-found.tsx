@@ -43,8 +43,8 @@ export default function NotFound() {
           transition={{ delay: 0.2 }}
           className="text-graphite mt-4"
         >
-          The page you're looking for must have skipped leg day — it's not here.
-          Let's get you back to the catalogue.
+          The page you&apos;re looking for must have skipped leg day — it&apos;s not here.
+          Let&apos;s get you back to the catalogue.
         </motion.p>
 
         <motion.div

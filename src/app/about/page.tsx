@@ -31,7 +31,7 @@ const values = [
   {
     icon: Users,
     title: "Athlete-Led",
-    description: "Our team trains daily — we stock what we'd put in our own bodies.",
+    description: "Our team trains daily — we stock what we&apos;d put in our own bodies.",
   },
 ];
 
@@ -63,7 +63,7 @@ export default function AboutPage() {
               What began as a small batch of imported whey shared among a tight-knit
               group of training partners has grown into a full-catalogue sports
               nutrition store serving athletes across India. The mission never
-              changed: every product we sell has to pass the test we'd apply to
+              changed: every product we sell has to pass the test we&apos;d apply to
               our own training.
             </p>
             <p className="text-graphite mt-4 leading-relaxed">

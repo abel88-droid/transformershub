@@ -26,7 +26,7 @@ export default function ContactForm() {
         </div>
         <h3 className="font-display text-xl uppercase text-bone mb-2">Message Sent</h3>
         <p className="text-graphite text-sm">
-          Thanks, {form.name.split(" ")[0] || "athlete"} — we'll get back to you within one
+          Thanks, {form.name.split(" ")[0] || "athlete"} — we&apos;ll get back to you within one
           business day.
         </p>
       </motion.div>
